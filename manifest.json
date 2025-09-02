@@ -1,0 +1,20 @@
+{
+  "short_name": "Warboard",
+  "name": "Warboard App",
+  "icons": [
+    {
+      "src": "/warboardsmallogo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/warboardmediumlogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/Warboard-app/",
+  "display": "standalone",
+  "theme_color": "#222222",
+  "background_color": "#222222"
+}
