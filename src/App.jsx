@@ -7,7 +7,6 @@ import HowToUse from "./pages/How-to-use";
 
 export default function App() {
   const navigate = useNavigate();
-
   return (
     <Routes>
       {/* Home / Menu */}
